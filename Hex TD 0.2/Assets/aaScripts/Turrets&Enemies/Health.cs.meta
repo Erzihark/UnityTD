@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: af4c2fc336624c34d8e83d832a0f3455
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthBar: {instanceID: 0}
+  - HexWallTopRight: {fileID: 3012256149789807040, guid: 47b07564f18e7c94e92d95e2b217cdbc,
+      type: 3}
+  - HexWallTopLeft: {fileID: 1284823739828016375, guid: b542c959f65c83f49b480d0270bd2df5,
+      type: 3}
+  - HexWallRight: {fileID: 1206283336132152114, guid: 36984691f1a501b49b533e806aafbb0b,
+      type: 3}
+  - HexWallLeft: {fileID: 3765518299750332460, guid: e10faac8b31bfef40baed06491b1e62d,
+      type: 3}
+  - HexWallBottomRight: {fileID: 8949829265268750924, guid: bfdca4e02b4defa4d99a19a82adf753b,
+      type: 3}
+  - HexWallBottomLeft: {fileID: 4704273394755452072, guid: 569570b442221ad4db12492d473f82c9,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
